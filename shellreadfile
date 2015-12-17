@@ -1,0 +1,62 @@
+for directory in ~/inhere/*
+do
+    for file in $directory
+    do
+        cat $file
+    done
+done
+
+find . -type f -size1033[c] -exec cat {} +
+
+find . -type f -size 1033c -exec cat {} +
+
+
+-group {group-name} : Find the file belongs to group-name.
+-user 
+
+find / -user bandit7 -group bandit6 -size 33c -exec cat {} +
+
+bandit5@bandit.labs.overthewire.org
+
+
+
+
+sort < data.txt | uniq -u
+
+cat -v | 
+
+
+strings data.txt | grep '^==*'
+
+
+
+cat data.txt | base64 --decode
+
+
+
+ssh bandit12@bandit.labs.overthewire.org
+
+
+
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+
+
+
+			<button style="right:0px;position:absolute;background: #ffab40;"class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
+					<i id="" class="material-icons">add</i>
+				  </button>
+			    </header>
+			    <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+			      <div class="mdl-card__supporting-text mdl-card-margin">
+			        <div  class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label textfield-100">
+					  <input class="mdl-textfield__input" type="text" id="sample3" />
+					  <label class="mdl-textfield__label" for="sample3">Title</label>
+					</div>
+					<div class="mdl-textfield mdl-js-textfield textfield-100">
+					  <textarea class="mdl-textfield__input" type="text" rows="5" id="sample5" ></textarea>
+					  <label class="mdl-textfield__label" for="sample5">Description</label>
+					</div>
+			      </div>
+			    </div>
+			  </section>
+			</li>
